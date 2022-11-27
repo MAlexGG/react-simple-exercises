@@ -5,6 +5,6 @@ There are 3 simple exercises, a light bulb that turns on and off, a counter, and
 
 ## Installation
 
-npm install
-npm start
+- npm install
+- npm start
 
